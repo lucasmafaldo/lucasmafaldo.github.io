@@ -2,7 +2,7 @@
 layout: post
 title:  "Por que a filosofia?"
 date:   2014-09-24 19:36:32
-categories: ensaios, português
+categories: ensaios
 ---
 Reconheço que nunca é um bom sinal quando precisamos começar algo justificando o porquê de fazê-lo. Mas espero mostrar que, depois de vencidas as resistências iniciais, estamos diante de uma prática não apenas aceitável, mas também importantíssima — e mesmo inevitável em certo nível.
 

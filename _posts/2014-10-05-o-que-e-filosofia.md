@@ -2,7 +2,7 @@
 layout: post
 title:  "O que é a filosofia?"
 date:   2014-10-05
-categories: ensaios, português
+categories: ensaios
 ---
 
 No texto anterior, argumentei que uma das maiores dificuldades em defender o porquê de estudar filosofia é porque não ousamos dizer _o que a filosofia é_. E não dizemos o que a filosofia é porque, dentro do largo campo que chamamos de filosofia, existe uma série de teorias e posturas intelectuais contraditórias e incompatíveis. Arriscar uma definição geral de filosofia significa potencialmente excluir algum colega de departamento. Por isso, preferimos dizer que todas as mais diferentes coisas que passam pelo nome de filosofia fazem parte das _humanidades_ em geral e devem ser respeitadas — e financiadas pelo governo — simplesmente porque cultura geral é importante. Argumentei ainda que há dois problemas nessa postura: (i) perde-se a especificidade da filosofia que se dissolve em algo vago e indefinido; (ii) a própria noção de cultura geral é incompatível com algumas teses filosóficas (como a noção platônica de que o importante é a _episteme_ e não a _doxa_).
