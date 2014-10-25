@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "O que é a filosofia?"
-date:   2014-09-24
+date:   2014-10-05
 categories: ensaios, português
 ---
 
