@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Por que a filosofia?"
+title:  "O que é a filosofia?"
 date:   2014-09-24
 categories: ensaios, português
 ---
